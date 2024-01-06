@@ -17,6 +17,8 @@ Neste estágio inicial de desenvolvimento, o Meteora possui as seguintes funcion
 
 O [Figma dessa aplicação você encontra aqui](https://www.figma.com/file/R5ATrWK1nC44Eyeo6XZXlr/Meteora---Context-API?node-id=2386%3A2430&mode=dev).
 
+## 👀 Teste o projeto aqui > [Link Test](https://meteora-one-swart.vercel.app/)
+
 ## ✔️ Técnicas e tecnologias utilizadas
 
 O projeto Meteora utiliza as seguintes tecnologias e bibliotecas:
